@@ -7,12 +7,12 @@
 .card-borderless{
     border: 0;
 }
-.button-size img{
+.button-size {
     height: 30px;
+}
+.button-size img{
+    height: 25px;
 }
 .touch-section{
     height: 355px;
-}
-#card-design{
-    border: 0;
 }
