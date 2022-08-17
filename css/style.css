@@ -4,6 +4,15 @@
 .nav-colors{
     background-color: #FFFBF0;
 }
+.card-borderless{
+    border: 0;
+}
+.button-size img{
+    height: 30px;
+}
+.touch-section{
+    height: 355px;
+}
 #card-design{
     border: 0;
 }
